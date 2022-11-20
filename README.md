@@ -1,0 +1,1 @@
+<img src="./sonuc.png" alt="Alt text" title="Optional title">
